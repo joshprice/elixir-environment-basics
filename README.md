@@ -13,10 +13,10 @@ Only prerequisite is to have [Elixir installed](http://elixir-lang.org/install.h
 
 ```bash
 $ mix -v
-Mix 1.0.5
+Mix 1.2.0
 
 $ elixir -v
-Elixir 1.0.5
+Elixir 1.2.0
 ```
 
 —
@@ -25,7 +25,7 @@ Elixir 1.0.5
 
 * Join us throughout the week on Triangle Devs Slack ([https://triangle-devs-slack-inviter.herokuapp.com](https://triangle-devs-slack-inviter.herokuapp.com)) in the **#elixir** channel
 * Weekly exercism.io Elixir exercises ([http://exercism.io/languages/elixir](http://exercism.io/languages/elixir))
-* Me @rwdaigle
+* Me @joshprice
 
 ^ Lots of places to interact, but trying to center local Elixir community in Triangle Devs Slack room.
 
@@ -357,8 +357,8 @@ config :triangle, :default_length, 2
 
 This talk/script can be found at:
 
-> [https://github.com/rwdaigle/elixir-environment-basics](https://github.com/rwdaigle/elixir-environment-basics)
+> [https://github.com/joshprice/elixir-environment-basics](https://github.com/joshprice/elixir-environment-basics)
 
 I can be found
 
-> @rwdaigle
+> @joshprice
